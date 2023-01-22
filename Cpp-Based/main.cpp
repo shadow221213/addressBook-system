@@ -1,4 +1,3 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include <bits/stdc++.h>
 using namespace std;
 // 简简单单的快读
